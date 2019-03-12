@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OptionSystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/OptionSystem</output-path>
+    <root id="archive" name="OptionSystem.jar">
+      <element id="module-output" name="MechanicalArm" />
+    </root>
+  </artifact>
+</component>

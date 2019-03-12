@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MechanicalArm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/MechanicalArm_jar/MechanicalArm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
